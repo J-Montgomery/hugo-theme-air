@@ -14,7 +14,7 @@ canonifyurls = true
 
 [params]
   description = "Just a Simple Blog"
-  cover = "images/user.jpg"
+  cover = "images/butterfly.png"
   author = "JM"
   authorlocation = ""
   bio= ""
